@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sixerapp",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "74:55:61:D3:B5:06:7E:F6:1D:7A:59:5E:58:EB:94:D1:DF:23:99:EF:BA:4C:9C:E0:2C:FD:8D:FA:25:23:5C:B9",
+        "65:38:38:06:6D:D9:F2:8C:A1:A6:85:7A:A2:7C:97:BC:80:84:53:1B:71:C0:88:9C:D9:DC:CF:0E:5D:9C:CE:8A"
+      ]
+    }
+  }
+]
